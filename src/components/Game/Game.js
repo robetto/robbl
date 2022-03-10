@@ -229,7 +229,7 @@ function Game (props) {
     const renderWordOptions = () => {
         return (
             <div className="canvas-options-outer-container">
-                <h3>Choose a word !</h3>
+                <h3>Scegli una parola!</h3>
                 <div className="word-options-container">
                     {words.map((w, index) => <button key={index} className="word-option" onClick={()=>handleWordSubmit(w)} > {w} </button>)}
                 </div>
@@ -273,7 +273,7 @@ function Game (props) {
     if(wait){
         return (
             <div className="outer-container center-wait">
-                <h1 className="wait">Waiting for users to join</h1>
+                <h1 className="wait">In attesa degli altri giocatori</h1>
             </div>
         );
     }
