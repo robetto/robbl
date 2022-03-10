@@ -273,7 +273,7 @@ function Game (props) {
     if(wait){
         return (
             <div className="outer-container center-wait">
-                <h1 className="wait">In attesa degli altri giocatori</h1>
+                <h1 className="wait">In attesa degli altri giocatori!</h1>
             </div>
         );
     }
