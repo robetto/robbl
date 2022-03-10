@@ -6,10 +6,10 @@ function Title (props) {
         }}>
             <span data-content="r" className="title-span" style={{
                 color:'red',
-            }}>s</span>
+            }}>r</span>
             <span data-content="o" className="title-span" style={{
                 color:'orangered',
-            }}>k</span>
+            }}>o</span>
             <span data-content="b" className="title-span" style={{
                 color:'skyblue',
             }}>b</span>
