@@ -62,7 +62,7 @@ function Join (props) {
             <div className="form-container">
                 <div id="login-form">
                     <input id="username" autoComplete="off" className="mt-10" type="text" placeholder="Username" name="username" onChange={handleChange} onKeyPress={(e) => e.code === 'Enter' ? handleSubmit(e) : null} value={user.username} />
-                    <button id="play" className="mt-10" onClick={handleSubmit}>Join</button>
+                    <button id="play" className="mt-10" onClick={handleSubmit}>COMINCIA!!!!!</button>
                     {error ? renderError() : null}
                 </div>
             </div>
