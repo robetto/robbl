@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/robbl/static/css/main.0ccb4547.chunk.css",
+    "main.js": "/robbl/static/js/main.9a7fbe7a.chunk.js",
+    "main.js.map": "/robbl/static/js/main.9a7fbe7a.chunk.js.map",
+    "runtime-main.js": "/robbl/static/js/runtime-main.c316829a.js",
+    "runtime-main.js.map": "/robbl/static/js/runtime-main.c316829a.js.map",
+    "static/js/2.1211dce7.chunk.js": "/robbl/static/js/2.1211dce7.chunk.js",
+    "static/js/2.1211dce7.chunk.js.map": "/robbl/static/js/2.1211dce7.chunk.js.map",
+    "index.html": "/robbl/index.html",
+    "static/css/main.0ccb4547.chunk.css.map": "/robbl/static/css/main.0ccb4547.chunk.css.map",
+    "static/js/2.1211dce7.chunk.js.LICENSE.txt": "/robbl/static/js/2.1211dce7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c316829a.js",
+    "static/js/2.1211dce7.chunk.js",
+    "static/css/main.0ccb4547.chunk.css",
+    "static/js/main.9a7fbe7a.chunk.js"
+  ]
+}
