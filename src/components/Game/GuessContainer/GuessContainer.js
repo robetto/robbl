@@ -50,7 +50,7 @@ function GuessContainer({socketRef}){
                 {guessList.map(renderGuess)}
             </div>
             <div className="input-container">
-                <input className="guess-input" type="text" placeholder="Type your guess ..." onChange={handleGuessChange} onKeyPress={handleGuessSubmit} value={guess} />
+                <input className="guess-input" type="text" placeholder="Indovina ..." onChange={handleGuessChange} onKeyPress={handleGuessSubmit} value={guess} />
             </div>
         </div>
     );
