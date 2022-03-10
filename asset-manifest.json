@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/robbl/static/css/main.0ccb4547.chunk.css",
-    "main.js": "/robbl/static/js/main.579da4b9.chunk.js",
-    "main.js.map": "/robbl/static/js/main.579da4b9.chunk.js.map",
+    "main.js": "/robbl/static/js/main.c48c4a40.chunk.js",
+    "main.js.map": "/robbl/static/js/main.c48c4a40.chunk.js.map",
     "runtime-main.js": "/robbl/static/js/runtime-main.c316829a.js",
     "runtime-main.js.map": "/robbl/static/js/runtime-main.c316829a.js.map",
     "static/js/2.1211dce7.chunk.js": "/robbl/static/js/2.1211dce7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c316829a.js",
     "static/js/2.1211dce7.chunk.js",
     "static/css/main.0ccb4547.chunk.css",
-    "static/js/main.579da4b9.chunk.js"
+    "static/js/main.c48c4a40.chunk.js"
   ]
 }
