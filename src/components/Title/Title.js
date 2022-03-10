@@ -18,7 +18,7 @@ function Title (props) {
             }}>b</span>
             <span data-content="l" className="title-span" style={{
                 color:'purple',
-            }}>l</span>
+            }}>l</span> 
         </div>
     );
 }
